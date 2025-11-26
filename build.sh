@@ -1,6 +1,6 @@
 # gcc src/main.cpp -Wall -o test
 
-EXE="shaderTest"
+EXE="expMandelbrotAnim"
 
 cmake .
 
